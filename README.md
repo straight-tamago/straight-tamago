@@ -1,6 +1,6 @@
 # I like macaron<br>
 
-# misaka project owner
+# I'm the owner of the misaka project.
 
 Discord Support
 
