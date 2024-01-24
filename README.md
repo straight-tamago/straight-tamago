@@ -4,8 +4,6 @@
 
 Discord Support
 
-## Join Discord Support 🍉
-
 <a href='https://discord.gg/KSExeZVAGX'><img align='center' alt='Discord' src='https://img.shields.io/discord/1156843198799421490?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
 
 <a href='https://discord.gg/mVrPxY3X6W'><img align='center' alt='Discord' src='https://img.shields.io/discord/1074625970029477919?color=36309d&label=DISCORD&logo=discord&logoColor=white&style=for-the-badge'></a>
